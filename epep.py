@@ -178,10 +178,10 @@ def logo():
         os.system('color ' +random.choice(['a', 'b', 'c', 'd'])+ " & cls & title CyberWare DDoS")
     print('''
              - Twitter : coming soon -
-    /\_____/\     My Discord for support : Jooooooo#5624
-   /  o   o  \    Support email : hekerhandal99@gmail.com
-  ( ==  ^  == )   Twitter : not now
-   )         (    YouTube : Pip samp
+    /\_____/\     My Discord for support : • XTraylinz •#0965
+   /  o   o  \    Support email : anjirg111@gmail.com
+  ( ==  ^  == )   Twitter : -
+   )         (    YouTube : TRZ
   (           )   ========================================================
  ( (  )   (  ) )     Cyberwar DDoSer - Bypass CloudFlare,OVH,FiveM
 (__(__)___(__)__) ===== Version: [ Anonymous Plan ]''')
@@ -888,3 +888,4 @@ class synflood(threading.Thread):
 
 if __name__ == '__main__':
     start_url()
+#TRAYL1NZ THE BEST
